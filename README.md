@@ -1,4 +1,4 @@
-# Game- Flappy Bird (1.0.0 release)
+# Simple Calculator (1.0.0 release)
 I created a simple calculator. The project is based on Python using the Tkinter library. I was partly inspired by the iOS calculator.
 
 ## Technologies
